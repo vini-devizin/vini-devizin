@@ -2,7 +2,7 @@
 const dev = {
   nome: 'Vinícius',
   sobrenome: 'Daniel',
-  linguagem: 'JavaScript'
+  aprendendo: ['desenvolvimeto web, python']
 }
 ```
 <!---
