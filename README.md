@@ -2,7 +2,7 @@
 const dev = {
   nome: 'Vinícius',
   sobrenome: 'Daniel',
-  aprendendo: ['desenvolvimeto web, python']
+  aprendendo: ['Desenvolvimento Web(Backend), Python']
 }
 ```
 <!---
